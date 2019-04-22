@@ -1,0 +1,14 @@
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\bin\Debug\netcoreapp2.1\BookApi.deps.json
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\bin\Debug\netcoreapp2.1\BookApi.runtimeconfig.json
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\bin\Debug\netcoreapp2.1\BookApi.runtimeconfig.dev.json
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\bin\Debug\netcoreapp2.1\BookApi.dll
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\bin\Debug\netcoreapp2.1\BookApi.pdb
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.csprojAssemblyReference.cache
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.csproj.CoreCompileInputs.cache
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.RazorAssemblyInfo.cache
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.RazorAssemblyInfo.cs
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.AssemblyInfoInputs.cache
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.AssemblyInfo.cs
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.RazorTargetAssemblyInfo.cache
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.dll
+G:\Demo源码\NetCore\BookApi\BookApi\BookApi\obj\Debug\netcoreapp2.1\BookApi.pdb
